@@ -28,6 +28,13 @@
 <!-- YOUTUBE:END -->
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MathausFerreira&show_icons=true&theme=algolia)](https://github.com/MathausFerreira/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MathausFerreira&count_private=true&show_icons=true&theme=algolia" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathausFerreira&theme=algolia" />
+</a>
 
-
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MathausFerreira&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathausFerreira&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+ -->
