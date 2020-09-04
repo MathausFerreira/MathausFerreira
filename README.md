@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-MathausFerreira-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MathausFerreira/)](https://github.com/MathausFerreira/)
 
 ## I'm a Robotics Enthusiast, Developer and Team Worker!
--  I’m working with Robotics!
+-  I'm working with Robotics!
 -  I'm currently doing Electrical Engineering Ph.D. 
 
 
@@ -28,12 +28,6 @@
 <!-- YOUTUBE:END -->
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MathausFerreira)](https://github.com/MathausFerreira/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MathausFerreira&show_icons=true&theme=algolia)](https://github.com/MathausFerreira/github-readme-stats)
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Mathaus Github Stats" src="https://github-readme-stats.MathausFerreira.vercel.app/api?username=MathausFerreira&show_icons=true&hide_border=true" />
-
-</details>
 
