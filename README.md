@@ -1,7 +1,7 @@
 ### Hi there, I'm Mathaus Ferreira
 
 [![LinkedIn Badge](https://img.shields.io/badge/-MathausFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mathaus-ferreira-779674a1/)](https://www.linkedin.com/in/mathaus-ferreira-779674a1/)
-[![Gmail Badge](https://img.shields.io/badge/-mathaus.silva@engenharia.ufjf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathaus.silva@engenharia.ufjf.br)](mailto:mathaus.silva@engenharia.ufjf.br)
+[![Gmail Badge](https://img.shields.io/badge/-mathaus.silva@engenharia.ufjf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathaus.silva@robotictech.com.br)](mailto:mathaus.silva@robotictech.com.br)
 [![Github Badge](https://img.shields.io/badge/-MathausFerreira-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MathausFerreira/)](https://github.com/MathausFerreira/)
 
 ## I'm a Robotics Enthusiast, Developer and Team Worker!
